@@ -34,3 +34,7 @@ In order to run the different examples, open the folder with the name of the flo
 
 Then, open `http://localhost:8888` in a browser.
 # spotify-api-template
+
+TODO:
+github automatic link (no password per push)
+keep client secret in app but not included in github (currently not in app due to public git)
